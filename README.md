@@ -1,1 +1,1 @@
-### This is a repo to increase the newledge of generators
+### This is a repo to increase the knowledge of generators
